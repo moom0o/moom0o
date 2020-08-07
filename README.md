@@ -5,4 +5,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moom0o&layout=compact&theme=dark"></p>
                          
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moom0o&show_icons=true&theme=dark&hide_rank=true"></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moom0o&show_icons=true&theme=dark"></p>
