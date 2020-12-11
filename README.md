@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm moom0o</h1>
+<h1 align="center">Hi, I'm moo. You can see my coding portfolio/stats here.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moom0o" alt="moom0o" /> </p>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
