@@ -10,6 +10,5 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@45e58dd6-2999-40ed-92a0-25d5007f3943/04614db0-5013-478a-833b-8ec26fc1d8a3.png" width="600" height="450" /></a>
 </p>
 </details>
-<h1>Can you make me something?</h1>
+<h1>Can you make me something??</h1>
 <p>Contact me and we can work something out, I would like payment in bitcoin.</p>
-
