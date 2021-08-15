@@ -7,3 +7,5 @@
 <p><img align="center" s<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moom0o&layout=compact&text_color=5baddf&icon_color=FFF&theme=tokyonight""></p>
 <h1>Can you make me something??</h1>
 <p>Contact me and we can work something out, I would like payment in bitcoin/monero.</p>
+
+<!-- Ignore this comment, just testing the new . shortcut on github -->
