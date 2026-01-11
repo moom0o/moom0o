@@ -1,7 +1,6 @@
 <h1>Backend Engineer | High-Scale Systems Specialist</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=moom0o" alt="moom0o" /> </p>
 <p>I build live production applications that are used by thousands of users and run 24/7 with 99% uptime.
-
 <table>
   <thead>
     <tr>
@@ -20,6 +19,7 @@
       </td>
       <td valign="top">
         <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"> 
+        <img src="https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white" alt="Debian">
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
         <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js">
         <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"> 
@@ -39,3 +39,11 @@
     </tr>
   </tbody>
 </table>
+<h2>Live Production Sites</h2>
+  <h3><a href="https://maps.moomoo.me">PhotoSphereStudio</a></h3>
+  <p>Upload 360° photos to Google Maps after Google's app was discontinued. 25,000 images have been uploaded by others using the service.</p>
+  <h3><a href="https://moobot.dev">MooBot</a></h3>
+  <p>A utility bot for anarchy minecraft servers with more than 100 commands, a database size of 50GB saving player data for more than 1.5 million Minecraft players and over 100 million messages.</p>
+  <h3><a href="https://queue.moomoo.me">queue.moomoo.me</a></h3>
+  <p>Track player queue statistics on 2b2t.</p>
+  
