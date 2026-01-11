@@ -41,9 +41,9 @@
 </table>
 <h2>Live Production Sites</h2>
   <h3><a href="https://maps.moomoo.me">PhotoSphereStudio</a></h3>
-  <p>Upload 360° photos to Google Maps after Google's app was discontinued. 25,000 images have been uploaded by others using the service.</p>
+  <p>Upload 360° photos to Google Maps after Google's app was discontinued.<br>Over <b>25,000 images</b> have been uploaded by others using the service.</p>
   <h3><a href="https://moobot.dev">MooBot</a></h3>
-  <p>A utility bot for anarchy minecraft servers with more than 100 commands, a database size of 50GB saving player data for more than 1.5 million Minecraft players and over 100 million messages.</p>
+  <p>A utility bot for anarchy minecraft servers with more than <b>100</b> commands.<br>A database size of <b>50GB</b> saving player data for more than <b>1.5 million</b> Minecraft players and over <b>100 million</b> messages.</p>
   <h3><a href="https://queue.moomoo.me">queue.moomoo.me</a></h3>
-  <p>Track player queue statistics on 2b2t.</p>
+  <p>Historical Time-Series Visualization of player queue statistics on 2b2t.<br>Highcharts frontend reading from a SQLite backend with automated 10-second data ingestion intervals.</p>
   
